@@ -1,0 +1,10 @@
+# Local and sensitive files
+.env
+.env.*
+!.env.example
+*.log
+*.sql.bak
+*.dump
+/vendor/
+/node_modules/
+/setup_admin.php
