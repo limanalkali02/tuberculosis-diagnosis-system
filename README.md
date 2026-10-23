@@ -69,3 +69,19 @@ This approach is intended for software demonstration and learning. The rules hav
 ## License
 
 No license has been specified. Contact the repository owner before reusing this project's code.
+
+## Screenshots
+
+### Homepage
+![TB Diagnosis System homepage](screenshots/homepage.png)
+
+### How It Works
+![How the screening system works](screenshots/how-it-works.png)
+
+### Screening Questionnaire
+![TB screening questionnaire](screenshots/screening-questionnaire.png)
+
+### Screening Results
+![Example screening result](screenshots/screening-results.png)
+
+> These screenshots are for demonstration purposes only. Screening results are not a medical diagnosis.
